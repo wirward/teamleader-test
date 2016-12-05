@@ -14,3 +14,13 @@ Some things that are not ideal yet in this example:
 When the api sents them as composed/nested objects, the will need to be decomposed into a normalized flat lists (for example using https://github.com/paularmstrong/normalizr ).
 Data object in redux should be as flat as possible, and the same data should only exist once in the store.
 
+- Project was started using create-react-app ( https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html ), to allow for a more flexible build process in the future, a proper webpack.config will be needed. There is also no hot-reloading using create-react-app, yet.
+
+
+## How to run
+
+    npm install
+    npm start
+    
+    
+  
