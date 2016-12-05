@@ -1,0 +1,12 @@
+{
+  "ecmaVersion": 6,
+  "libs": [
+    "browser"
+  ],
+  "loadEagerly": [
+    "scr/*.js"
+  ],
+  "plugins": {
+    "es_modules": {}
+  }
+}
