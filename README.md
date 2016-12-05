@@ -19,8 +19,12 @@ Data object in redux should be as flat as possible, and the same data should onl
 
 ## How to run
 
+    git clone https://github.com/wirward/teamleader-test.git
+    cd teamleader-test/
+    
     npm install
     npm start
+    
     
     
   
